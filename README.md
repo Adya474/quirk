@@ -103,7 +103,7 @@ If you already have XCode installed with a simulator, you can just press `i` to 
 
 # Can I help?
 
-Of course!
+Of course! We'd really appreciate if you did!
 
 **If you like the app,** go give it 5 stars! It helps more people find the app.
 
