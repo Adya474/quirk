@@ -113,6 +113,8 @@ Of course!
 
 **If you know a language other than English,** help [us translate the app!](/TRANSLATIONS.md)
 
+And remember to just enjoy the app and interact. Your satisfaction means a lot to us.
+
 # Design
 
 Quirk's goal is to be both inviting and focused. It should be _really_ easy to enter in a thought; people frequently enter these in public settings and need to do it fairly quickly. It also should not cause any increased frustration.
